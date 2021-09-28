@@ -1,0 +1,16 @@
+package aula1DH;
+
+public class TesteTiposPrimitivos {
+     
+	public static void main(String[] args) {
+		
+		System.out.println("Aula 01 - Hello World");
+		
+		TiposPrimitivos  tp = new TiposPrimitivos();		
+	
+		System.out.println(tp.tipoByte);
+		System.out.println(tp.tipoShort);
+		System.out.println(tp.tipoInt);
+		System.out.println(tp.tipoLong);
+	}  
+}

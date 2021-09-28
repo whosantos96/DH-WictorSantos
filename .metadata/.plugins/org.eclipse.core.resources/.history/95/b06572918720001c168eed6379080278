@@ -1,0 +1,9 @@
+package aula1DH;
+
+public class TesteTiposPrimitivos {
+     
+	public static void main(String[] args) {
+		
+		System.out.println("Aula 01 - Hello World");
+	}  
+}
